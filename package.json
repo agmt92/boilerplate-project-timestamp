@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/freeCodeCamp/boilerplate-project-timestamp#readme",
   "author": "freeCodeCamp <team@freecodecamp.org>",
+  "student": "agmt92",
   "keywords": [
     "node",
     "express",
